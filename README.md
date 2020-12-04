@@ -1,2 +1,2 @@
 # AlmanacX
- An Almanac of SpaceX
+ An Almanac of SpaceX.
